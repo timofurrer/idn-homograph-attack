@@ -1,0 +1,18 @@
+# This file contains a selected list of cyrillic alphabet
+# characters which appear similar in latin
+# These confusables are curated from www.unicode.org/Public/security/latest/confusables.txt
+
+0430 ;  0061 ;  MA      # ( а → a ) CYRILLIC SMALL LETTER A → LATIN SMALL LETTER A      #
+0435 ;  0065 ;  MA      # ( е → e ) CYRILLIC SMALL LETTER IE → LATIN SMALL LETTER E     #
+04BB ;  0068 ;  MA      # ( һ → h ) CYRILLIC SMALL LETTER SHHA → LATIN SMALL LETTER H   #
+0456 ;  0069 ;  MA      # ( і → i ) CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I → LATIN SMALL LETTER I       #
+0458 ;  006A ;  MA      # ( ј → j ) CYRILLIC SMALL LETTER JE → LATIN SMALL LETTER J     #
+0406 ;  006C ;  MA      # ( І → l ) CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I → LATIN SMALL LETTER L     #
+04C0 ;  006C ;  MA      # ( Ӏ → l ) CYRILLIC LETTER PALOCHKA → LATIN SMALL LETTER L     #
+043E ;  006F ;  MA      # ( о → o ) CYRILLIC SMALL LETTER O → LATIN SMALL LETTER O      #
+0440 ;  0070 ;  MA      # ( р → p ) CYRILLIC SMALL LETTER ER → LATIN SMALL LETTER P     #
+0433 ;  0072 ;  MA      # ( г → r ) CYRILLIC SMALL LETTER GHE → LATIN SMALL LETTER R    #
+0455 ;  0073 ;  MA      # ( ѕ → s ) CYRILLIC SMALL LETTER DZE → LATIN SMALL LETTER S    #
+051D ;  0076 0076 ;     MA      # ( ԝ → vv ) CYRILLIC SMALL LETTER WE → LATIN SMALL LETTER V, LATIN SMALL LETTER V      # →w→
+0445 ;  0078 ;  MA      # ( х → x ) CYRILLIC SMALL LETTER HA → LATIN SMALL LETTER X     #
+0443 ;  0079 ;  MA      # ( у → y ) CYRILLIC SMALL LETTER U → LATIN SMALL LETTER Y      #
