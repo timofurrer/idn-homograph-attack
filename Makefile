@@ -1,3 +1,6 @@
+install: install-opera install-php install-alexa
+	echo Done
+
 install-opera:
 	mkdir -p /var/www/opera.com/html
 	cp -r www/opera.com/* /var/www/opera.com/html
